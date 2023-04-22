@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ed80b2b5.css",
+    "main.js": "/static/js/main.9a03bfdf.js",
+    "static/js/787.b09c67d2.chunk.js": "/static/js/787.b09c67d2.chunk.js",
+    "static/media/kyberswap.png": "/static/media/kyberswap.3a7ef20aed13c670c9a1.png",
+    "static/media/bg-pattern.svg": "/static/media/bg-pattern.2f51762565b0abaee56e151a372519cd.svg",
+    "static/media/metamask.02e3ec27.png": "/static/media/metamask.02e3ec27.02e3ec2750d2107176f5.png",
+    "static/media/loader-blue.gif": "/static/media/loader-blue.bb937aed24944dfa4abf.gif",
+    "static/media/wax.png": "/static/media/wax.91552bf55901c365de81.png",
+    "static/media/oceanprotocol.png": "/static/media/oceanprotocol.03373ab440a3d1adef8d.png",
+    "static/media/homepage-app-shapes-bg@2x.png": "/static/media/homepage-app-shapes-bg@2x.c2902ee27d8d013b88af.png",
+    "static/media/1inch.png": "/static/media/1inch.606053372055fe4b4836.png",
+    "static/media/eos.png": "/static/media/eos.e633bfb225c41d085dfe.png",
+    "static/media/polkadot.png": "/static/media/polkadot.b80a2b1c148b97a8b093.png",
+    "static/media/homepage-exchange-shapes-bg.png": "/static/media/homepage-exchange-shapes-bg.04e66f738600ffb65bf3.png",
+    "static/media/homepage-exchange-shapes-bg@2x.png": "/static/media/homepage-exchange-shapes-bg@2x.04e66f738600ffb65bf3.png",
+    "static/media/monero.png": "/static/media/monero.e520e32ead45409ca593.png",
+    "static/media/kardiachain.png": "/static/media/kardiachain.9e5f5cd05762c6917b2b.png",
+    "static/media/octofi.png": "/static/media/octofi.1700c82f80ac4a4ad5e4.png",
+    "static/media/app-ease.png": "/static/media/app-ease.e501810f5ea5b980d783.png",
+    "static/media/harmony.png": "/static/media/harmony.29ecbfd2d3de3df84273.png",
+    "static/media/elrond.png": "/static/media/elrond.12d605e9c94d53414982.png",
+    "static/media/homepage-app-shapes-bg.png": "/static/media/homepage-app-shapes-bg.48e8245f29675263b6a3.png",
+    "static/media/bchain.png": "/static/media/bchain.649df144661c2f398bf2.png",
+    "static/media/falconswap.png": "/static/media/falconswap.9bc49e3ac6a514f3c8d7.png",
+    "static/media/homepage-explorer-shapes-bg.png": "/static/media/homepage-explorer-shapes-bg.a21ac7097a8a11fa461c.png",
+    "static/media/homepage-explorer-shapes-bg@2x.png": "/static/media/homepage-explorer-shapes-bg@2x.a21ac7097a8a11fa461c.png",
+    "static/media/app-store-badge.aaca3a4.svg": "/static/media/app-store-badge.aaca3a4.5136e83bef9bc336b1bdd90f9ace1307.svg",
+    "static/media/google-play-badge.231fcf7.svg": "/static/media/google-play-badge.231fcf7.d53961bbe8a441de7a99d9adc338016a.svg",
+    "static/media/banner-bg.svg": "/static/media/banner-bg.222325743ffd88964de9.svg",
+    "static/media/home-hero-gradient.svg": "/static/media/home-hero-gradient.e069bc65115c1bce16e4.svg",
+    "static/media/wallet-no-background.svg": "/static/media/wallet-no-background.69c9e8c387fe17d6bd4d.svg",
+    "index.html": "/index.html",
+    "main.ed80b2b5.css.map": "/static/css/main.ed80b2b5.css.map",
+    "main.9a03bfdf.js.map": "/static/js/main.9a03bfdf.js.map",
+    "787.b09c67d2.chunk.js.map": "/static/js/787.b09c67d2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed80b2b5.css",
+    "static/js/main.9a03bfdf.js"
+  ]
+}
